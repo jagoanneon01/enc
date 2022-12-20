@@ -7,7 +7,6 @@ putih="\e[1;37m"
 cyan="\e[1;36m"
 NC="\e[1;37m"
 clear
-echo ""
 figlet -f small ENCRYPT Bash By Ronggo86 X MH SSH SEDANG | lolcat
 sleep 2
 echo ""
