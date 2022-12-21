@@ -12,7 +12,7 @@ echo ""
 echo -e "RONGGOLAWE REBORN ENCRYPT BASH" | lolcat
 echo -e "FB : Generasi Ronggolawe Tuban" | lolcat
 read -rp">>>>Masukkan Nama File : " file
-enc=$(shc -r -f $file && rm $file && rm $file.x.c && mv $file.x $file && chmod +x $file)
+enc=$(shc -r -f $file && rm $file && rm $file.x.c && mv $file.x $file)
 read -p " Klik Enter Untuk Melanjutkan : " $enc
 echo ""
 echo -e " ${cyan} Tunggu Sebentar Sedang Proses >>>>> "
