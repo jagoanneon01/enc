@@ -13,13 +13,13 @@ wget "https://raw.githubusercontent.com/jagoanneon01/enc/main/fileku/shc-4.0.3.t
 #  Jika Sudah Jalankan Perintah Berikut :
 
 ```
-tar xzvf shc-4.0.3.tar.gZG
+tar xzvf shc-4.0.3.tar.gz
 
 cd shc-4.0.3/
 
 ./configure 
 
-maker
+make
 
 make install
 ```
@@ -39,7 +39,13 @@ chmod +x insjagoan.sh && sed -i -e 's/\r$//' insjagoan.sh && ./insjagoan.sh
 ```
 ./insjagoan.sh
 ```
+# Note : Untuk Pemula
+# Jika Baru Masuk Ulang Melalui Terminal ketik Perintah
+```
+cd shc-4.0.3
+```
 
+# Baru Jalankan Scriptnya Kembali
 # Happy To ENCRYPT Semoga Harimu Menyenangkan
 # Generasi Ronggolawe Tuban
 # Since 1986
