@@ -2,7 +2,7 @@
 # Install Bahan2Nya Dulu Boss
 
 ```
-apt-get install build-essential -y && apt-get install lolcat -y && apt-get install figlet -y && apt-get install zip -y && apt install gzip -y
+apt update && apt upgrade -y && apt-get install build-essential -y && apt-get install lolcat -y && apt-get install figlet -y && apt-get install zip -y && apt install gzip -y
 ```
 # Download SHC 
 
