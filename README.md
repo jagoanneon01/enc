@@ -26,18 +26,18 @@ make install
 # Jika Semua Command Di Atas Sudah Di Jalankan Selanjutnya Install Script Encrypt nya
 
 ```
-wget "https://raw.githubusercontent.com/jagoanneon01/enc/main/ronggolawe.sh"
+wget "https://raw.githubusercontent.com/jagoanneon01/enc/main/insjagoan.sh"
 ```
 # aktifkan perintahnya dulu bossku
 
 ```
-chmod +x ronggolawe.sh && ./ronggolawe.sh
+chmod +x insjagoan.sh && ./insjagoan.sh
 ```
 
 # Untuk Menjalankan Ulang Anda Hanya Perlu Memakai Perintah Ini
 
 ```
-./ronggolawe.sh
+./insjagoan.sh
 ```
 # Note : Untuk Pemula
 # Jika Baru Masuk Ulang Melalui Terminal ketik Perintah
