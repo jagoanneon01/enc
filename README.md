@@ -46,15 +46,15 @@ cd shc-4.0.3
 ```
 
 # Baru Jalankan Scriptnya Kembali
-# Happy To ENCRYPT Semoga Harimu Menyenangkan
-# Generasi Ronggolawe Tuban
-# Since 1986
+Happy To ENCRYPT Semoga Harimu Menyenangkan
+Generasi Ronggolawe Tuban
+Since 1986
 
 # Bonus Auto Permittion Bash
-# Cocok Untuk Shell Bash
-# Buat Yang males ngetik permitnya di Script nya
-# Jadi ngga banyak ngetik hehe
-# Langsung Gass comot aja ngab
+Cocok Untuk Shell Bash
+Buat Yang males ngetik permitnya di Script nya
+Jadi ngga banyak ngetik hehe
+Langsung Gass comot aja ngab
 # Command :
 ```
 wget "https://raw.githubusercontent.com/jagoanneon01/enc/main/insjagoan2.sh && chmod +x insjagoan2.sh && ./insjagoan2.sh"
