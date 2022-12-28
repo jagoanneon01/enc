@@ -57,7 +57,7 @@ Jadi ngga banyak ngetik hehe
 Langsung Gass comot aja ngab
 # Command :
 ```
-wget "https://raw.githubusercontent.com/jagoanneon01/enc/main/insjagoan2.sh && chmod +x insjagoan2.sh && ./insjagoan2.sh"
+wget "https://raw.githubusercontent.com/jagoanneon01/enc/main/insjagoan2.sh" && chmod +x insjagoan2.sh && ./insjagoan2.sh
 ```
 # Command Function :
 ```
