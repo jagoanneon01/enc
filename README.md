@@ -65,3 +65,7 @@ wget "https://raw.githubusercontent.com/jagoanneon01/enc/main/insjagoan2.sh" && 
 ```
 # Oke Mungkin Itu aja ya ngab
 # Makasih Dah Mau Mampir Kemari
+# Open Link Donate
+```
+https://saweria.co/ronggolawe1986
+```
